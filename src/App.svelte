@@ -1,3 +1,8 @@
+<script>
+  import AppBar from "./components/AppBar.svelte";
+</script>
+
+<AppBar />
 <main>
 	<h1 class="text-3xl font-mono text-center">
 		QR @
